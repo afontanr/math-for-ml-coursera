@@ -4,8 +4,8 @@ This repository contains notebooks and notes for the [Mathematics for Machine Le
 
 ## 🔍 Contents
 
-- 📐 Linear Algebra – 🚧 in progress
-- ∇ Multivariate Calculus – ⏳ planned
+- 📐 Linear Algebra – Done
+- ∇ Multivariate Calculus – 🚧 in progress
 - 🎲 Probability and Statistics – ⏳ planned
 
 ## 📂 Structure
